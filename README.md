@@ -95,8 +95,3 @@ Contributions, bug reports, and feature requests are welcome! Feel free to submi
 ## License
 
 This project is open source, released under the MIT License.
-
-## Acknowledgements
-
-- Original algorithms based on Delphi code by Ernst Reidinga (ERDesigns)
-- Thanks to the open-source community for providing tools and knowledge
